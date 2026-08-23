@@ -1,31 +1,16 @@
-```markdown
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=30&center=true&lines=🇵🇪🇦🇰🇾+🇧🇱🇮🇳🇩🇪🇷+🇲🇩;🔥+THE+ULTIMATE+BOT+🔥;⚡+POWERED+BY+SANG+LEE+⚡;🥃+BY+ORDER+OF+THE+PEAKY+BLINDERS+🥃" alt="Typing SVG" />
-  
-</div>
-
-<p align="center">
+<div align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=30&center=true&lines=🇵🇪🇦🇰🇾+🇧🇱🇮🇳🇩🇪🇷+🇲🇩;🔥+THE+ULTIMATE+BOT+🔥;⚡+POWERED+BY+SANG+LEE+⚡;🥃+BY+ORDER+OF+THE+PEAKY+BLINDERS+🥃" alt="Typing SVG" /></div><p align="center">
   <img src="https://i.imgur.com/poYOmWN.jpeg" alt="Peaky Blinders" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(255,69,0,0.5);"/>
-</p>
-
-<h1 align="center">🥃 PEAKY-BLINDER-MD 🥃</h1>
-
-<p align="center">
+</p><h1 align="center">🥃 PEAKY-BLINDER-MD 🥃</h1><p align="center">
   <b><i>⚡ A Powerful Multi-Device WhatsApp Bot ⚡</i></b><br>
   <b><i>🇰🇪 Made in Kenya with ❤️ 🇰🇪</i></b>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://img.shields.io/github/stars/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=ff4500&logoColor=white&label=STARS" />
   <img src="https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=blue&logoColor=white&label=FORKS" />
   <img src="https://img.shields.io/github/issues/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=red&logoColor=white&label=ISSUES" />
   <img src="https://img.shields.io/github/license/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=green&logoColor=white&label=LICENSE" />
   <img src="https://img.shields.io/badge/Version-2.0.0-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://whatsapp.com/channel/0029VbBaJvI7IUYbtCeaPh0I">
     <img src="https://img.shields.io/badge/Join_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -35,27 +20,22 @@
   <a href="https://youtu.be/CN63hwHqaN0?si=HfH-omG9U0RYRi9u">
     <img src="https://img.shields.io/badge/Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</p>---
 
----
+🎩 ABOUT THE BOT
 
-## 🎩 ABOUT THE BOT
-
-> **PEAKY-BLINDER-MD** is a premium WhatsApp bot designed to make your messaging experience powerful, fun, and efficient. With a sleek interface and robust features, this bot is built for those who demand the best. Whether you're managing groups, downloading media, or just having fun, this bot has got you covered.
+«PEAKY-BLINDER-MD is a premium WhatsApp bot designed to make your messaging experience powerful, fun, and efficient. With a sleek interface and robust features, this bot is built for those who demand the best. Whether you're managing groups, downloading media, or just having fun, this bot has got you covered.»
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+</p>---
 
----
-
-## ✨ FEATURES THAT MAKE US STAND OUT
+✨ FEATURES THAT MAKE US STAND OUT
 
 <table align="center">
 <tr>
-<td>
+<td>👑 Admin Tools
 
-### 👑 **Admin Tools**
 - Ban/Unban users
 - Promote/Demote admins
 - Group muting
@@ -63,9 +43,8 @@
 - Anti-spam protection
 
 </td>
-<td>
+<td>🎵 Media Downloads
 
-### 🎵 **Media Downloads**
 - YouTube MP3/MP4
 - TikTok videos
 - Instagram content
@@ -75,9 +54,8 @@
 </td>
 </tr>
 <tr>
-<td>
+<td>🔍 Search Engine
 
-### 🔍 **Search Engine**
 - Google Search
 - Image Search
 - Wikipedia
@@ -85,9 +63,8 @@
 - Weather Forecast
 
 </td>
-<td>
+<td>🎨 Fun & Games
 
-### 🎨 **Fun & Games**
 - Random Memes
 - Jokes & Quotes
 - Dice Roll
@@ -96,142 +73,103 @@
 
 </td>
 </tr>
-</table>
-
-<p align="center">
+</table><p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+</p>---
 
----
+🚀 DEPLOYMENT OPTIONS
 
-## 🚀 DEPLOYMENT OPTIONS
+<div align="center">Platform| Status| Link
+Heroku| ⚠️ Coming Soon| "Deploy" (https://dashboard.heroku.com/new?template=https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/tree/main)
+Koyeb| ✅ Available| "Deploy" (https://app.koyeb.com/services/deploy?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000)
+Render| ✅ Available| "Deploy" (https://dashboard.render.com/web/new)
+BotHosting| ✅ Available| "Deploy" (https://bot-hosting.net/?aff=1333843799511793717)
+Katabump| ✅ Available| "Deploy" (https://dashboard.katabump.com/auth/login#5651c1)
 
-<div align="center">
-
-| Platform | Status | Link |
-|----------|--------|------|
-| **Heroku** | ⚠️ Coming Soon | [Deploy](https://dashboard.heroku.com/new?template=https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/tree/main) |
-| **Koyeb** | ✅ Available | [Deploy](https://app.koyeb.com/services/deploy?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000) |
-| **Render** | ✅ Available | [Deploy](https://dashboard.render.com/web/new) |
-| **BotHosting** | ✅ Available | [Deploy](https://bot-hosting.net/?aff=1333843799511793717) |
-| **Katabump** | ✅ Available | [Deploy](https://dashboard.katabump.com/auth/login#5651c1) |
-
-</div>
-
-<p align="center">
+</div><p align="center">
   <a href="https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/fork">
     <img src="https://img.shields.io/badge/⭐_FORK_THIS_REPO-4c1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/📥_DOWNLOAD_BOT-FF009D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p>---
 
----
+🌐 GET SESSION ID
 
-## 🌐 GET SESSION ID
+<div align="center">Server| Status| Link
+Server 1| 🟢 Online| "Get Session" (https://peaky-blinder-session.zone.id)
+Server 2| 🟢 Online| "Get Session" (https://sesssion.onrender.com/)
 
-<div align="center">
-
-| Server | Status | Link |
-|--------|--------|------|
-| **Server 1** | 🟢 Online | [Get Session](https://peaky-blinder-session.zone.id) |
-| **Server 2** | 🟢 Online | [Get Session](https://sesssion.onrender.com/) |
-
-</div>
-
-<p align="center">
+</div><p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+</p>---
 
----
-
-## 📜 COMMAND REFERENCE
+📜 COMMAND REFERENCE
 
 <details>
-<summary><b>👑 Click to Expand Admin Commands</b></summary>
+<summary><b>👑 Click to Expand Admin Commands</b></summary>Command| Description
+".ban @user"| Ban a user from group
+".unban @user"| Unban a user
+".kick @user"| Remove user from group
+".promote @user"| Make user admin
+".demote @user"| Remove admin privileges
+".mute 1h"| Mute group for 1 hour
+".unmute"| Unmute group
+".tagall"| Tag all group members
+".delete"| Delete bot message
+".setpp"| Set group profile picture
 
-| Command | Description |
-|---------|-------------|
-| `.ban @user` | Ban a user from group |
-| `.unban @user` | Unban a user |
-| `.kick @user` | Remove user from group |
-| `.promote @user` | Make user admin |
-| `.demote @user` | Remove admin privileges |
-| `.mute 1h` | Mute group for 1 hour |
-| `.unmute` | Unmute group |
-| `.tagall` | Tag all group members |
-| `.delete` | Delete bot message |
-| `.setpp` | Set group profile picture |
+</details><details>
+<summary><b>🎵 Click to Expand Media Commands</b></summary>Command| Description
+".play song name"| Download music
+".video video name"| Download videos
+".ytmp3 URL"| YouTube to MP3
+".ytmp4 URL"| YouTube to MP4
+".tiktok URL"| Download TikTok
+".instagram URL"| Download Instagram
+".spotify URL"| Download Spotify
+".soundcloud URL"| Download SoundCloud
+".fb URL"| Download Facebook video
 
-</details>
+</details><details>
+<summary><b>🔍 Click to Expand Search Commands</b></summary>Command| Description
+".google query"| Google search
+".image query"| Image search
+".wiki query"| Wikipedia search
+".news topic"| Latest news
+".weather city"| Weather info
+".map location"| Google Maps
+".translate text"| Translate text
+".define word"| Dictionary definition
 
-<details>
-<summary><b>🎵 Click to Expand Media Commands</b></summary>
+</details><details>
+<summary><b>🎨 Click to Expand Fun Commands</b></summary>Command| Description
+".meme"| Random meme
+".joke"| Random joke
+".quote"| Inspirational quote
+".facts"| Random facts
+".dice"| Roll a dice
+".flip"| Flip a coin
+".trivia"| Trivia game
+".riddle"| Solve a riddle
+".roast @user"| Roast someone
+".hack @user"| Fake hack someone
 
-| Command | Description |
-|---------|-------------|
-| `.play song name` | Download music |
-| `.video video name` | Download videos |
-| `.ytmp3 URL` | YouTube to MP3 |
-| `.ytmp4 URL` | YouTube to MP4 |
-| `.tiktok URL` | Download TikTok |
-| `.instagram URL` | Download Instagram |
-| `.spotify URL` | Download Spotify |
-| `.soundcloud URL` | Download SoundCloud |
-| `.fb URL` | Download Facebook video |
+</details>---
 
-</details>
+⚙️ CONFIGURATION
 
-<details>
-<summary><b>🔍 Click to Expand Search Commands</b></summary>
+Quick Setup
 
-| Command | Description |
-|---------|-------------|
-| `.google query` | Google search |
-| `.image query` | Image search |
-| `.wiki query` | Wikipedia search |
-| `.news topic` | Latest news |
-| `.weather city` | Weather info |
-| `.map location` | Google Maps |
-| `.translate text` | Translate text |
-| `.define word` | Dictionary definition |
+1. Fork the repository
+2. Get your session ID
+3. Deploy to your preferred platform
+4. Configure settings in "settings.js"
+5. Start the bot
 
-</details>
+Environment Variables
 
-<details>
-<summary><b>🎨 Click to Expand Fun Commands</b></summary>
-
-| Command | Description |
-|---------|-------------|
-| `.meme` | Random meme |
-| `.joke` | Random joke |
-| `.quote` | Inspirational quote |
-| `.facts` | Random facts |
-| `.dice` | Roll a dice |
-| `.flip` | Flip a coin |
-| `.trivia` | Trivia game |
-| `.riddle` | Solve a riddle |
-| `.roast @user` | Roast someone |
-| `.hack @user` | Fake hack someone |
-
-</details>
-
----
-
-## ⚙️ CONFIGURATION
-
-### **Quick Setup**
-
-1. **Fork** the repository
-2. **Get** your session ID
-3. **Deploy** to your preferred platform
-4. **Configure** settings in `settings.js`
-5. **Start** the bot
-
-### **Environment Variables**
-
-```javascript
 {
   SESSION_ID: "your-session-id",
   PREFIX: ".",
@@ -240,19 +178,14 @@
   BOT_NAME: "PEAKY-BLINDER-MD",
   THEME: "dark"
 }
-```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
----
+</p>---
 
 👥 CONTRIBUTORS & CREDITS
 
-<div align="center">
-
-🎩 Project Owner
+<div align="center">🎩 Project Owner
 
 <table>
 <tr>
@@ -264,43 +197,27 @@
   <a href="https://t.me/pugslycc">Telegram</a>
 </td>
 </tr>
-</table>
-
-🙏 Special Thanks To
+</table>🙏 Special Thanks To Amon Tech 👑
 
 <table>
 <tr>
 <td align="center">
-  <img src="https://avatars.githubusercontent.com/AmonTech1" width="80px;" style="border-radius: 50%; border: 2px solid #ff4500;"/><br />
+  <img src="https://avatars.githubusercontent.com/AmonTech1" width="100px;" style="border-radius: 50%; border: 2px solid #ff4500;"/><br />
   <b>Amon Tech</b><br />
   <a href="https://github.com/AmonTech1">GitHub</a> • 
   <a href="https://wa.me/254759006509">WhatsApp</a> • 
   <a href="https://t.me/Demon_lord_dev">Telegram</a>
 </td>
-<td align="center">
-  <img src="https://avatars.githubusercontent.com/Xdking2" width="80px;" style="border-radius: 50%; border: 2px solid #ff4500;"/><br />
-  <b>Malvin King</b><br />
-  <a href="https://github.com/Xdking2">GitHub</a> • 
-  <a href="https://wa.me/263776388689">WhatsApp</a>
-</td>
 </tr>
-</table>
-
-</div>
-
----
+</table></div>---
 
 📊 PROJECT STATS
 
-<div align="center">
-
-https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=radical&border_radius=15&border_color=ff4500
+<div align="center">https://github-readme-stats-sigma-five.vercel.app/api?username=Thomas-shelby001&show_icons=true&theme=radical&border_radius=15&border_color=ff4500
 
 https://github-readme-streak-stats.herokuapp.com/?user=Thomas-shelby001&theme=radical&border_radius=15&border=ff4500
 
-</div>
-
----
+</div>---
 
 🤝 SUPPORT & COMMUNITY
 
@@ -314,9 +231,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=Thomas-shelby001&theme=ra
   <a href="https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/issues">
     <img src="https://img.shields.io/badge/🐛_Report_Issue-FF4500?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
+</p>---
 
 ⚠️ DISCLAIMER
 
@@ -330,29 +245,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center">
-
-🔥 "BY ORDER OF THE PEAKY BLINDERS" 🔥
+<div align="center">🔥 "BY ORDER OF THE PEAKY BLINDERS" 🔥
 
 ⚡ Built with ❤️ in Kenya ⚡
 
-<hr>
-
-⭐ Don't forget to STAR this repository if you found it useful! ⭐
+<hr>⭐ Don't forget to STAR this repository if you found it useful! ⭐
 
 🍴 Fork it and make it your own! 🍴
 
-<hr>
-
-📅 Last Updated: 2026
+<hr>📅 Last Updated: 2026
 
 🎯 Version: 2.0.0
 
-</div>
-
----
+</div>---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=25&center=true&lines=THANK+YOU+FOR+CHOOSING+PEAKY+BLINDER+MD;KEEP+CALM+AND+CODE+ON;🚬+PEAKY+BLINDERS+FOR+LIFE+🚬" />
 </div>
-```
